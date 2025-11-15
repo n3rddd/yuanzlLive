@@ -1,33 +1,33 @@
-2025-11-15 05:55:09,739 - ERROR - url: http://175.178.251.183:6689/channel.txt 爬取失败❌, Error: HTTPConnectionPool(host='175.178.251.183', port=6689): Max retries exceeded with url: /channel.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd77c6cf1c0>, 'Connection to 175.178.251.183 timed out. (connect timeout=None)'))
-2025-11-15 05:55:09,924 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
-2025-11-15 05:55:09,925 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
-2025-11-15 05:55:10,041 - INFO - url: https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt 获取成功，判断为txt格式
-2025-11-15 05:55:10,041 - INFO - url: https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt 爬取成功✅，包含频道分类: 央视频道
-2025-11-15 05:57:24,907 - ERROR - url: http://120.79.4.185/new/mdlive.txt 爬取失败❌, Error: HTTPConnectionPool(host='120.79.4.185', port=80): Max retries exceeded with url: /new/mdlive.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd77c6ce7d0>, 'Connection to 120.79.4.185 timed out. (connect timeout=None)'))
-2025-11-15 05:57:24,967 - ERROR - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt
-2025-11-15 05:57:25,032 - ERROR - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt
-2025-11-15 05:57:25,752 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 获取成功，判断为txt格式
-2025-11-15 05:57:25,752 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
-2025-11-15 05:57:26,755 - ERROR - url: https://tv.youdu.fan:666/live/ 爬取失败❌, Error: 403 Client Error: Forbidden for url: https://tv.youdu.fan:666/live/
-2025-11-15 05:57:27,893 - INFO - url: http://ww.weidonglong.com/dsj.txt 获取成功，判断为txt格式
-2025-11-15 05:57:27,893 - INFO - url: http://ww.weidonglong.com/dsj.txt 爬取成功✅，包含频道分类: 本版本停服, 央视, 卫视, 影视, 体育, 👉下载地址
-2025-11-15 05:57:28,272 - ERROR - url: http://xhztv.top/zbc.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://xhztv.top/zbc.txt
-2025-11-15 05:57:28,339 - ERROR - url: https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt
-2025-11-15 05:57:28,497 - INFO - url: https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt 获取成功，判断为txt格式
-2025-11-15 05:57:28,519 - INFO - url: https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt 爬取成功✅，包含频道分类: 央视, 新闻, 卫视台, 地方台, 港澳台, 埋堆堆, 影视, 体育, 音乐, 小品, 咪咕, 斗鱼, 少儿, 国外, IPV6, 
-2025-11-15 05:57:29,254 - ERROR - url: https://v.nxog.top/m/tv/1/ 爬取失败❌, Error: HTTPSConnectionPool(host='v.nxog.top', port=443): Max retries exceeded with url: /m/tv/1/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd77c6ce920>: Failed to resolve 'v.nxog.top' ([Errno -2] Name or service not known)"))
-2025-11-15 05:57:29,320 - ERROR - url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt
-2025-11-15 05:57:30,480 - ERROR - url: http://home.jundie.top:81/Cat/tv/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://home.jundie.top:81/Cat/tv/live.txt
-2025-11-15 05:57:30,543 - ERROR - url: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
-2025-11-15 05:57:30,602 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 获取成功，判断为m3u格式
-2025-11-15 05:57:30,602 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 爬取成功✅，包含频道分类: 央视, 卫视, 地方, 数字
-2025-11-15 05:57:30,673 - INFO - url: https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt 获取成功，判断为txt格式
-2025-11-15 05:57:30,673 - INFO - url: https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 其他频道
-2025-11-15 05:57:30,733 - INFO - url: https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 获取成功，判断为txt格式
-2025-11-15 05:57:30,733 - INFO - url: https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 爬取成功✅，包含频道分类: 央视
-2025-11-15 05:57:31,599 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 获取成功，判断为m3u格式
-2025-11-15 05:57:31,601 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 爬取成功✅，包含频道分类: 臺灣 Taiwan, 馬來西亞 Malaysia, 新加坡 Singapore, 印尼 Indonesia, 香港 Hongkong, 中國 China, 體育 Sports, 印度 Indian, 電影 Movie, 紀錄 Documentary, 新聞 News, 兒童 Kids, 泰國 Thailand, 英國 United Kingdom, 越南 Vietnam, 韓國 Korea, 日本 Japan
-2025-11-15 05:57:31,675 - INFO - url: https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 获取成功，判断为txt格式
-2025-11-15 05:57:31,676 - INFO - url: https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 其他频道
-2025-11-15 05:57:31,756 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
-2025-11-15 05:57:31,756 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间
+2025-11-16 05:54:52,636 - ERROR - url: http://175.178.251.183:6689/channel.txt 爬取失败❌, Error: HTTPConnectionPool(host='175.178.251.183', port=6689): Max retries exceeded with url: /channel.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f682a83f1c0>, 'Connection to 175.178.251.183 timed out. (connect timeout=None)'))
+2025-11-16 05:54:52,719 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 获取成功，判断为m3u格式
+2025-11-16 05:54:52,719 - INFO - url: https://live.fanmingming.com/tv/m3u/ipv6.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道
+2025-11-16 05:54:52,754 - INFO - url: https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt 获取成功，判断为txt格式
+2025-11-16 05:54:52,754 - INFO - url: https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt 爬取成功✅，包含频道分类: 央视频道
+2025-11-16 05:57:07,804 - ERROR - url: http://120.79.4.185/new/mdlive.txt 爬取失败❌, Error: HTTPConnectionPool(host='120.79.4.185', port=80): Max retries exceeded with url: /new/mdlive.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f682a83e7d0>, 'Connection to 120.79.4.185 timed out. (connect timeout=None)'))
+2025-11-16 05:57:07,955 - ERROR - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt
+2025-11-16 05:57:08,077 - ERROR - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt
+2025-11-16 05:57:08,580 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 获取成功，判断为txt格式
+2025-11-16 05:57:08,580 - INFO - url: https://live.zhoujie218.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 更新时间
+2025-11-16 05:57:09,746 - ERROR - url: https://tv.youdu.fan:666/live/ 爬取失败❌, Error: 403 Client Error: Forbidden for url: https://tv.youdu.fan:666/live/
+2025-11-16 05:57:10,615 - INFO - url: http://ww.weidonglong.com/dsj.txt 获取成功，判断为txt格式
+2025-11-16 05:57:10,615 - INFO - url: http://ww.weidonglong.com/dsj.txt 爬取成功✅，包含频道分类: 本版本停服, 央视, 卫视, 影视, 体育, 👉下载地址
+2025-11-16 05:57:10,833 - ERROR - url: http://xhztv.top/zbc.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://xhztv.top/zbc.txt
+2025-11-16 05:57:10,959 - ERROR - url: https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt
+2025-11-16 05:57:11,272 - INFO - url: https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt 获取成功，判断为txt格式
+2025-11-16 05:57:11,294 - INFO - url: https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt 爬取成功✅，包含频道分类: 央视, 新闻, 卫视台, 地方台, 港澳台, 埋堆堆, 影视, 体育, 音乐, 小品, 咪咕, 斗鱼, 少儿, 国外, IPV6, 
+2025-11-16 05:57:11,638 - ERROR - url: https://v.nxog.top/m/tv/1/ 爬取失败❌, Error: HTTPSConnectionPool(host='v.nxog.top', port=443): Max retries exceeded with url: /m/tv/1/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f682a83e920>: Failed to resolve 'v.nxog.top' ([Errno -2] Name or service not known)"))
+2025-11-16 05:57:11,757 - ERROR - url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Guovin/TV/gd/result.txt
+2025-11-16 05:57:12,556 - ERROR - url: http://home.jundie.top:81/Cat/tv/live.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: http://home.jundie.top:81/Cat/tv/live.txt
+2025-11-16 05:57:12,686 - ERROR - url: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
+2025-11-16 05:57:12,730 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 获取成功，判断为m3u格式
+2025-11-16 05:57:12,731 - INFO - url: https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u 爬取成功✅，包含频道分类: 央视, 卫视, 地方, 数字
+2025-11-16 05:57:12,875 - INFO - url: https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt 获取成功，判断为txt格式
+2025-11-16 05:57:12,875 - INFO - url: https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 其他频道
+2025-11-16 05:57:12,907 - INFO - url: https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 获取成功，判断为txt格式
+2025-11-16 05:57:12,908 - INFO - url: https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt 爬取成功✅，包含频道分类: 央视
+2025-11-16 05:57:14,172 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 获取成功，判断为m3u格式
+2025-11-16 05:57:14,173 - INFO - url: https://fm1077.serv00.net/SmartTV.m3u 爬取成功✅，包含频道分类: 臺灣 Taiwan, 馬來西亞 Malaysia, 新加坡 Singapore, 印尼 Indonesia, 香港 Hongkong, 中國 China, 體育 Sports, 印度 Indian, 電影 Movie, 紀錄 Documentary, 新聞 News, 兒童 Kids, 泰國 Thailand, 英國 United Kingdom, 越南 Vietnam, 韓國 Korea, 日本 Japan
+2025-11-16 05:57:14,325 - INFO - url: https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 获取成功，判断为txt格式
+2025-11-16 05:57:14,325 - INFO - url: https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 其他频道
+2025-11-16 05:57:14,461 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
+2025-11-16 05:57:14,461 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道分类: 更新时间
