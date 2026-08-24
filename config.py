@@ -7,13 +7,32 @@
 # "ipv6" = IPv6 地址优先排在前面；"ipv4" = IPv4 优先
 ip_version_priority = "ipv6"
 
-# ── 数据源列表 ───────────────────────────────────────────────────────
+# ── 源优先级 ────────────────────────────────────────────────────────
+# "hotel" = 酒店源优先排在前面；"subscription" = 订阅源优先
+source_priority = "hotel"
+
+# 每频道最大线路数，0 = 不限制
+max_lines_per_channel = 8
+
+# ── 订阅源 ───────────────────────────────────────────────────────
 # 每个 URL 都是一个 IPTV 直播源文件（支持 m3u 或 txt 格式）
 # main.py 会依次请求这些地址，提取频道名和播放地址
 # 注：被注释掉的源暂时停用，可取消注释启用
 source_urls = [
-    "",
+    
 ]
+
+# ── 酒店源 ────────────────────────────────────────────
+# hotel_api   : 酒店源 API 地址
+# enabled   : True=启用酒店源抓取，False=跳过
+# allowed_orgs : 只保留指定运营商的节点，空列表=不过滤
+#              可选值: "China Telecom", "China Unicom", "China Mobile",
+#                      "Alibaba Cloud", "Tencent" 等
+hotel_config = {
+    "hotel_api": "",
+    "enabled": True,
+    "allowed_orgs": ["China Mobile","Alibaba Cloud"],
+}
 
 # ── URL 黑名单 ───────────────────────────────────────────────────────
 # 播放地址包含以下任意子串时会被自动过滤掉
@@ -39,9 +58,7 @@ announcements = [
     {
         "channel": "公告-yuanzl77",
         "entries": [
-            {"name": "www.776512.xyz", "url": "https://liuliuliu.tv/api/channels/233/stream", "logo": "https://ts2.tc.mm.bing.net/th/id/OIP-C.2CL9t6gI2-c5n5DI9Sl_0QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"},
-            {"name": "更新时间：__TIME__", "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4", "logo": "https://ts2.tc.mm.bing.net/th/id/OIP-C.2CL9t6gI2-c5n5DI9Sl_0QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"},
-        ]
+                    ]
     }
 ]
 
@@ -51,9 +68,7 @@ announcements = [
 #   2. 频道 ID 映射（{频道名: tvg-id}），让播放器正确显示节目单
 # 建议将最全面的源放在最后，作为保底
 epg_urls = [
-    "http://e.erw.cc/e.xml.gz",
-    "https://github.776512.xyz/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz",
-    "https://github.776512.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/refs/heads/main/EPG.xml"
+ 
 ]
 
 # ── 质量检测 — HTTP 快筛 ─────────────────────────────────────────────
@@ -62,7 +77,7 @@ epg_urls = [
 # check_max_conn       : 最大并发检测数，调高可加速但更占带宽
 enable_quality_check = True
 check_timeout    = 3.5
-check_max_conn   = 50
+check_max_conn   = 80
 
 # ── 质量检测 — FFprobe 中度探测 ───────────────────────────────────────
 # enable_ffprobe     : True=启用第二层 FFprobe 探测，False=仅 HTTP 快筛
@@ -79,7 +94,19 @@ check_max_conn   = 50
 # ffprobe_max_streams: ffprobe 最多读取的流数量，避免大文件探流耗时过长
 ffmpeg_path        = ""        # 空 = 使用系统 PATH 里的 ffprobe
 enable_ffprobe     = True
-ffprobe_timeout    = 4.0
+ffprobe_timeout    = 3.5
 min_bitrate        = 0         # min_bitrate = 200000 → 码率>0 且 <200kbps 的源会被淘汰；码率=0 的源不受影响
 min_resolution     = "720"     # 宽度最低 720px
 ffprobe_max_streams = 3
+
+# ── 深度探测配置 ───────────────────────────────────────────────────────
+# enable_deep_probe  : True=启用第三层深度探测（仅对 m3u8 流），False=仅中度探测
+#                      深度探测会检查分片时长、数量等，更准确但更慢
+# deep_probe_timeout : 单个 URL 深度探测超时（秒）
+#                      IPTV 流通常 5~10 秒即可探完，设为 10 秒以容忍慢源
+# min_speed_kbps     : 最小速度阈值（kbps），低于此值的源会被过滤
+#                      0 = 不过滤（只评分不淘汰）
+#                      建议 2000（2 Mbps）避免推流卡顿
+enable_deep_probe  = True
+deep_probe_timeout = 5.0
+min_speed_kbps     = 2500  # 2.5 Mbps
