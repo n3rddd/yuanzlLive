@@ -137,6 +137,228 @@ def _run_ffprobe(url, timeout, max_streams):
         return {"status": "error", "detail": str(e)}
 
 
+
+
+def _deep_probe_m3u8(url, timeout):
+    """深度探测 m3u8 直播流：检查分片稳定性、播放连续性和下载速度"""
+    ffprobe = _find_ffprobe()
+    result = {
+        "status": "ok",
+        "detail": "",
+        "target_duration": 0,
+        "segment_count": 0,
+        "is_live": False,
+        "quality_score": 0,
+        "speed_kbps": 0,  # 新增：下载速度（kbps）
+        "bandwidth_score": 0,  # 新增：带宽评分
+    }
+    
+    # ===== 第一部分：ffprobe 基础探测 =====
+    cmd = [
+        ffprobe,
+        "-v", "quiet",
+        "-print_format", "json",
+        "-show_format",
+        "-show_entries", "format=format_name,duration",
+        "-i", url,
+    ]
+    try:
+        proc = subprocess.run(
+            cmd, capture_output=True, text=False,
+            timeout=timeout + 2,
+        )
+        if proc.returncode != 0:
+            result["status"] = "failed"
+            result["detail"] = f"ffprobe exit={proc.returncode}"
+            return result
+        
+        data = json.loads(proc.stdout.decode("utf-8", errors="replace"))
+        fmt = data.get("format", {})
+        format_name = fmt.get("format_name", "")
+        if "hls" not in format_name and "mpegts" not in format_name:
+            result["status"] = "skip"
+            result["detail"] = "not_hls_stream"
+            return result
+        
+        cmd2 = [
+            ffprobe,
+            "-v", "quiet",
+            "-print_format", "json",
+            "-show_entries", "format=target_duration,duration",
+            "-i", url,
+        ]
+        proc2 = subprocess.run(
+            cmd2, capture_output=True, text=False,
+            timeout=timeout,
+        )
+        if proc2.returncode == 0:
+            data2 = json.loads(proc2.stdout.decode("utf-8", errors="replace"))
+            target_dur = data2.get("format", {}).get("target_duration", 0)
+            duration = data2.get("format", {}).get("duration", 0)
+            result["target_duration"] = int(target_dur) if target_dur else 0
+            result["duration"] = float(duration) if duration else 0
+            result["is_live"] = True
+            if target_dur > 0 and duration > 0:
+                result["segment_count"] = int(duration / target_dur)
+        
+        if result["target_duration"] > 0:
+            if 2 <= result["target_duration"] <= 10:
+                result["quality_score"] = 80
+            elif result["target_duration"] < 2:
+                result["quality_score"] = 60
+            else:
+                result["quality_score"] = 50
+        
+        if result["segment_count"] > 0:
+            result["detail"] = f"hls segments~{result['segment_count']} target_dur={result['target_duration']}s"
+        else:
+            result["detail"] = "hls_stream detected"
+            
+    except subprocess.TimeoutExpired:
+        result["status"] = "timeout"
+        result["detail"] = f"deep_probe timeout >{timeout}s"
+    except Exception as e:
+        result["status"] = "error"
+        result["detail"] = str(e)
+    
+    # ===== 第二部分：速度测试（下载多个 TS 分片） =====
+    if result["status"] in ("ok", "ok_no_ts") and _is_m3u8_url(url):
+        import time
+        import urllib.request
+        
+        # 下载 m3u8 playlist
+        m3u8_start = time.time()
+        try:
+            with urllib.request.urlopen(url, timeout=3) as resp:
+                m3u8_content = resp.read().decode("utf-8", errors="replace")
+            m3u8_elapsed = time.time() - m3u8_start
+        except:
+            result["detail"] += " m3u8_fail"
+            result["speed_kbps"] = 0
+            return result
+        
+        # 解析 m3u8，收集 TS 分片 URL（最多 5 个）
+        base_url = _get_base_url(url)
+        ts_urls = []
+        for line in m3u8_content.splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                if line.endswith(".ts"):
+                    ts_urls.append(line)
+                elif "/" not in line and base_url and len(ts_urls) < 5:
+                    ts_urls.append(base_url + line)
+            if len(ts_urls) >= 5:
+                break
+        
+        if not ts_urls:
+            result["detail"] += " no_ts"
+            result["speed_kbps"] = 0
+            return result
+        
+        # 下载前 3 个 TS 分片，综合计算速度
+        total_bytes = len(m3u8_content.encode())
+        total_time = m3u8_elapsed
+        ts_downloaded = 0
+        
+        for ts_rel in ts_urls[:3]:
+            # 处理相对路径和绝对路径
+            ts_url = ts_rel if ts_rel.startswith("http") else base_url + ts_rel
+            
+            try:
+                ts_start = time.time()
+                with urllib.request.urlopen(ts_url, timeout=3) as ts_resp:
+                    ts_data = ts_resp.read()
+                ts_elapsed = time.time() - ts_start
+                
+                total_bytes += len(ts_data)
+                total_time += ts_elapsed
+                ts_downloaded += 1
+            except:
+                continue
+        
+        # 计算综合速度
+        if total_time > 0:
+            speed_kbps = total_bytes * 8 / total_time / 1024
+            result["speed_kbps"] = int(speed_kbps)
+            result["detail"] += f" {ts_downloaded}ts_avg"
+        else:
+            result["speed_kbps"] = 0
+        
+        # 根据速度评分
+        speed = result["speed_kbps"]
+        if speed >= 3000:  # >= 3 Mbps
+            result["bandwidth_score"] = 90
+        elif speed >= 2000:  # >= 2 Mbps
+            result["bandwidth_score"] = 70
+        elif speed >= 1000:  # >= 1 Mbps
+            result["bandwidth_score"] = 50
+        else:
+            result["bandwidth_score"] = 30
+        
+        # 更新 detail 信息
+        if result["speed_kbps"] > 0:
+            result["detail"] += f" speed={result['speed_kbps']}kbps"
+        else:
+            result["detail"] += " speed=unknown"
+    
+    return result
+
+
+def _playback_test(url, timeout, test_duration=3):
+    """播放测试：尝试解码前 N 秒内容，验证可播放性"""
+    ffprobe = _find_ffprobe()
+    result = {
+        "status": "ok",
+        "detail": "",
+        "decoded_frames": 0,
+        "decode_errors": 0,
+    }
+    
+    cmd = [
+        "ffmpeg",
+        "-y",
+        "-v", "error",
+        "-i", url,
+        "-t", str(test_duration),
+        "-f", "null",
+        "-"
+    ]
+    try:
+        proc = subprocess.run(
+            cmd, capture_output=True, text=True,
+            timeout=timeout + 5,
+        )
+        
+        stderr = proc.stderr or ""
+        
+        import re as re_module
+        frames_match = re_module.search(r"frame=\s*(\d+)", stderr)
+        if frames_match:
+            result["decoded_frames"] = int(frames_match.group(1))
+        
+        error_match = re_module.findall(r"error|Error", stderr)
+        result["decode_errors"] = len(error_match)
+        
+        if proc.returncode != 0 and result["decoded_frames"] == 0:
+            result["status"] = "failed"
+            result["detail"] = "decode_failed"
+        elif result["decode_errors"] > 10:
+            result["status"] = "degraded"
+            result["detail"] = f"high_error_rate errors={result['decode_errors']}"
+        else:
+            result["status"] = "ok"
+            result["detail"] = f"decoded={result['decoded_frames']}f errors={result['decode_errors']}"
+            
+    except subprocess.TimeoutExpired:
+        result["status"] = "timeout"
+        result["detail"] = f"playback_test timeout >{timeout}s"
+    except Exception as e:
+        result["status"] = "error"
+        result["detail"] = str(e)
+    
+    return result
+
+
 async def _get_ffprobe_executor():
     global _ffprobe_executor
     if _ffprobe_executor is None:
@@ -163,15 +385,29 @@ async def _ffprobe_async(url, timeout, max_streams):
     return await loop.run_in_executor(executor, _run_ffprobe, url, timeout, max_streams)
 
 
+async def _deep_probe_async(url, timeout):
+    """异步运行深度探测"""
+    loop = asyncio.get_event_loop()
+    executor = await _get_ffprobe_executor()
+    return await loop.run_in_executor(executor, _deep_probe_m3u8, url, timeout)
+
+
+async def _playback_test_async(url, timeout, test_duration=3):
+    """异步运行播放测试"""
+    loop = asyncio.get_event_loop()
+    executor = await _get_ffprobe_executor()
+    return await loop.run_in_executor(executor, _playback_test, url, timeout, test_duration)
+
+
 async def _check_single(session, url, http_timeout, ffprobe_timeout, ffprobe_semaphore=None):
-    """单 URL 双引擎检测：先 HTTP 快筛，再通过则 FFprobe 中度探测"""
+    """单 URL 三层检测：HTTP 快筛 + FFprobe 基础探测 + 深度探测"""
     clean_url = _strip_suffix(url)
     # 第一层：HTTP 快筛
     fast = await _http_fast_check(session, clean_url, http_timeout)
     if fast["status"] not in ("ok", "ok_no_ts"):
         fast["layer"] = "fast_fail"
         return fast
-    # 第二层：FFprobe 中度探测
+    # 第二层：FFprobe 基础探测
     if config.enable_ffprobe:
         probe = await _ffprobe_async(clean_url, ffprobe_timeout, config.ffprobe_max_streams)
         # ffprobe 失败不阻塞，保留快筛结果
@@ -194,7 +430,18 @@ async def _check_single(session, url, http_timeout, ffprobe_timeout, ffprobe_sem
             fast["ffprobe"] = probe
             return fast
         fast["ffprobe"] = probe
-        fast["layer"] = "ffprobe"
+        # 第三层：深度探测（对所有通过中度探测的源）
+        if config.enable_deep_probe:
+            deep = await _deep_probe_async(clean_url, config.deep_probe_timeout)
+            if deep["status"] == "ok":
+                fast["deep"] = deep
+                fast["layer"] = "deep"
+            else:
+                fast["deep"] = deep
+                # 深度探测失败不阻塞，保留基础探测结果
+                fast["layer"] = "ffprobe"
+        else:
+            fast["layer"] = "ffprobe"
     return fast
 
 
@@ -231,6 +478,8 @@ async def check_all(channels):
         f"开始质量检测，共 {len(all_tasks)} 个 URL，并发数 {config.check_max_conn}，"
         f"HTTP 超时 {config.check_timeout}s"
         + (f"，FFprobe 启用，超时 {config.ffprobe_timeout}s" if config.enable_ffprobe else "")
+        + (f"，深度探测启用，超时 {config.deep_probe_timeout}s" if config.enable_deep_probe else "")
+        + (f"，最小速度 {config.min_speed_kbps}kbps" if getattr(config, "min_speed_kbps", 0) > 0 else "")
     )
 
     async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
@@ -273,7 +522,7 @@ async def check_all(channels):
 def filter_dead_urls(channels, check_results):
     """
     根据检测结果过滤失效源，返回去重后的 channels。
-    保留条件: status 为 "ok" 或 "ok_no_ts"，且 layer 为 "ffprobe"（排除仅快筛无元数据的源）
+    保留条件: status 为 "ok" 或 "ok_no_ts"，且 layer 为 "ffprobe" 或 "deep"（排除仅快筛无元数据的源）
     """
     filtered = {}
     for cat, ch_dict in channels.items():
@@ -283,15 +532,16 @@ def filter_dead_urls(channels, check_results):
             for url in url_list:
                 cl = _strip_suffix(url)
                 r = check_results.get(cat, {}).get(ch_name, {}).get(cl, {})
-                if r.get("status") in ("ok", "ok_no_ts") and r.get("layer") == "ffprobe":
+                # 接受 ffprobe 或 deep 层检测通过的源
+                if r.get("status") in ("ok", "ok_no_ts") and r.get("layer") in ("ffprobe", "deep"):
                     valid.append(url)
             if valid:
                 filtered[cat][ch_name] = valid
 
-    removed = sum(
-        len(channels[c][n]) - len(filtered[c][n])
-        for c in filtered for n in filtered.get(c, {})
-    )
+    removed = 0
+    for c in filtered:
+        for n in filtered.get(c, {}):
+            removed += len(channels[c].get(n, [])) - len(filtered[c][n])
     kept = sum(len(urls) for c in filtered for urls in filtered[c].values())
     logger.info(f"过滤后: 保留 {kept} 个有效源，移除 {removed} 个失效源")
     return filtered
