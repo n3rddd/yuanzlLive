@@ -6,6 +6,8 @@
 
 ---
 
+![img](./image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-21%20185627.png)
+![img](./image/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-09-21%20185432.png)
 ![img](./image/Screenshot_2026-08-18-08-36-24-053_com.fongmi.android.tv.jpg)
 ![img](./image/Screenshot_2026-08-18-08-36-21-906_com.fongmi.android.tv.jpg)
 
@@ -113,3 +115,8 @@ check_max_conn   = 50          # 最大并发检测数，调高可加速但更�
 3. **更稳定**：避免 IPv4/IPv6 地址转换带来的连接中断
 
 查看当前网络是否支持 IPv6：[test-ipv6.com](https://test-ipv6.com/index.html.zh_CN)
+
+### Docker 内测中
+```bash
+# 随时删库-仅学习交流
+docker pull yuanzl7712/iptv:latest
