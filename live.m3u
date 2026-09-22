@@ -5,7 +5,7 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON3.png" group-title="雷蒙影视直播",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 tvg-id="1" tvg-name="2026-09-21" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="雷蒙影视直播",2026-09-21
+#EXTINF:-1 tvg-id="1" tvg-name="2026-09-22" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="雷蒙影视直播",2026-09-22
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="央视频道",CCTV1
 http://www.zzlag.top:9087/tsfile/live/1010_1.m3u8?key=txiptv$雷蒙影视•IPV4『线路1』
@@ -934,11 +934,11 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000461/ind
 #EXTINF:-1 tvg-id="114" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="央视频道",CCTV5
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000461/index.m3u8?IAS$雷蒙影视•IPV6『线路114』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="央视频道",CCTV5+
-https://a.nxog.eu.org/vip/nxog.php?c=CCTV5%2B&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=CCTV5%2B&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="央视频道",CCTV5+
-https://b.nxog.eu.org/vip/nxog.php?c=CCTV5%2B&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=CCTV5%2B&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="央视频道",CCTV5+
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=CCTV5%2B&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=CCTV5%2B&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="央视频道",CCTV5+
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="央视频道",CCTV5+
@@ -3058,11 +3058,11 @@ http://119.122.214.182:4022/udp/239.77.0.215:5146$雷蒙影视•IPV4『线路8�
 #EXTINF:-1 tvg-id="9" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/大湾区卫视.png" group-title="广东频道",大湾区卫视
 https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8$雷蒙影视•IPV4『线路9』
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://58.57.21.166:9901/tsfile/live/0128_1.m3u8$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -3250,11 +3250,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="96" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$雷蒙影视•IPV6『线路96』
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://114.252.229.26:9876/rtp/239.3.1.137:8036$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -3438,11 +3438,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="94" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111130BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUclW6AUI%2FSIO%2Bs%2F9KaqCfRAwoDIwMxbrlyyVy9x6ZDKnvfae09h%2Fzg38THB%2B%2FvaO%2BqCb7fDXq%2F%2BRzM2c4SN6TJM$雷蒙影视•IPV6『线路94』
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
 http://120.234.5.29:6000/udp/239.20.0.173:2144$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
@@ -3594,11 +3594,11 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000182/ind
 #EXTINF:-1 tvg-id="78" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="卫视频道",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8$雷蒙影视•IPV6『线路78』
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
 http://www.zzlag.top:9087/tsfile/live/0122_1.m3u8?key=txiptv$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
@@ -3786,11 +3786,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="96" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000173/index.m3u8?IAS$雷蒙影视•IPV6『线路96』
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://114.252.229.26:9876/rtp/239.3.1.135:8028$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
@@ -3958,11 +3958,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="86" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111129BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUcGtOwREJFyiNDdTdcs12AwwoDIwMxbrlyyVy9x6ZDKnBkF6L%2FLitKpXlc5tHW6%2BFmFsnQjgK5quHb1RYo8bFps$雷蒙影视•IPV6『线路86』
 #EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://222.241.154.37:9901/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -4280,11 +4280,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="81" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$雷蒙影视•IPV6『线路81』
 #EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/四川卫视.png" group-title="卫视频道",四川卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/四川卫视.png" group-title="卫视频道",四川卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/四川卫视.png" group-title="卫视频道",四川卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/四川卫视.png" group-title="卫视频道",四川卫视
 http://14.29.76.30:9901/tsfile/live/0123_1.m3u8?key=txiptv$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/四川卫视.png" group-title="卫视频道",四川卫视
@@ -4434,11 +4434,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="77" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/四川卫视.png" group-title="卫视频道",四川卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$雷蒙影视•IPV6『线路77』
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="卫视频道",东南卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="卫视频道",东南卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="卫视频道",东南卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="卫视频道",东南卫视
 http://124.128.73.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="东南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东南卫视.png" group-title="卫视频道",东南卫视
@@ -4710,11 +4710,11 @@ rtp://239.3.1.28:2000$雷蒙影视•IPV4『线路58』
 #EXTINF:-1 tvg-id="59" tvg-name="深圳卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路59』
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="卫视频道",广东卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="卫视频道",广东卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="卫视频道",广东卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="卫视频道",广东卫视
 http://120.234.49.38:7000/udp/239.20.0.99:3004$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="卫视频道",广东卫视
@@ -4904,11 +4904,11 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000341/ind
 #EXTINF:-1 tvg-id="97" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="卫视频道",广东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$雷蒙影视•IPV6『线路97』
 #EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="卫视频道",广西卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="卫视频道",广西卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="卫视频道",广西卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="卫视频道",广西卫视
 http://171.108.239.98:8181/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="卫视频道",广西卫视
@@ -5084,11 +5084,11 @@ http://171.108.239.80:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="6" tvg-name="南方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/南方卫视.png" group-title="卫视频道",南方卫视
 http://171.108.239.99:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://live.nctv.top/886/sxg.php?id=gsws_4000$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -5188,11 +5188,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8$雷�
 #EXTINF:-1 tvg-id="52" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002160/index.m3u8$雷蒙影视•IPV6『线路52』
 #EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/贵州卫视.png" group-title="卫视频道",贵州卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/贵州卫视.png" group-title="卫视频道",贵州卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="贵州卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/贵州卫视.png" group-title="卫视频道",贵州卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="贵州卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://222.241.154.37:9901/tsfile/live/23046_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="贵州卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/贵州卫视.png" group-title="卫视频道",贵州卫视
@@ -5344,11 +5344,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="78" tvg-name="贵州卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?key=tvbox6_com$雷蒙影视•IPV6『线路78』
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河北卫视.png" group-title="卫视频道",河北卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河北卫视.png" group-title="卫视频道",河北卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="河北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河北卫视.png" group-title="卫视频道",河北卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="河北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河北卫视.png" group-title="卫视频道",河北卫视
 http://114.252.229.26:9876/rtp/239.3.1.148:8072$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="河北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河北卫视.png" group-title="卫视频道",河北卫视
@@ -5528,11 +5528,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 #EXTINF:-1 tvg-id="92" tvg-name="河北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河北卫视.png" group-title="卫视频道",河北卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$雷蒙影视•IPV6『线路92』
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河南卫视.png" group-title="卫视频道",河南卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="河南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河南卫视.png" group-title="卫视频道",河南卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="河南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河南卫视.png" group-title="卫视频道",河南卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="河南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河南卫视.png" group-title="卫视频道",河南卫视
 http://live.nctv.top/886/sxg.php?id=hnws35_4000$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="河南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河南卫视.png" group-title="卫视频道",河南卫视
@@ -5684,11 +5684,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="78" tvg-name="河南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河南卫视.png" group-title="卫视频道",河南卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$雷蒙影视•IPV6『线路78』
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://114.252.229.26:9876/rtp/239.3.1.133:8016$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -5870,11 +5870,11 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000175/ind
 #EXTINF:-1 tvg-id="93" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8$雷蒙影视•IPV6『线路93』
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://114.252.229.26:9876/rtp/239.3.1.138:8044$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
@@ -6054,11 +6054,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="92" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000250/index.m3u8?IAS$雷蒙影视•IPV6『线路92』
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
 http://222.241.154.37:9901/tsfile/live/23034_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
@@ -6222,11 +6222,11 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="84" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="卫视频道",江西卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$雷蒙影视•IPV6『线路84』
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://117.27.190.42:9998/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
@@ -6358,11 +6358,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="68" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8$雷蒙影视•IPV6『线路68』
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/NMGWS/index.m3u8?gMac=unknown&livodToken=2a83b67dcfa26ef08cccea70c6900e92c66ba17041ea398942b524ec061b5631_1720508642_604800&fromCDN=ws$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
@@ -6446,13 +6446,15 @@ https://stream1.freetv.fun/37fc5c2c33aed43bab26dcbddab8b5b568175179a9e550df80929
 #EXTINF:-1 tvg-id="44" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.m3u8$雷蒙影视•IPV4『线路44』
 #EXTINF:-1 tvg-id="45" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路45』
+rtp://239.3.1.204:8224$雷蒙影视•IPV4『线路45』
+#EXTINF:-1 tvg-id="46" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路46』
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://222.241.154.37:9901/tsfile/live/23036_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
@@ -6610,11 +6612,11 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="81" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$雷蒙影视•IPV6『线路81』
 #EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/NXWS/index.m3u8?gMac=unknown&livodToken=1d0f5b089f7253cd270a0328999578de85020e6d867e554cc1164c662985c537_1720508667_604800&fromCDN=ws$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -6720,11 +6722,11 @@ rtp://239.3.1.169:8212$雷蒙影视•IPV4『线路54』
 #EXTINF:-1 tvg-id="55" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路55』
 #EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
 http://www.zzlag.top:9087/tsfile/live/0140_1.m3u8?key=txiptv$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
@@ -6854,11 +6856,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/index.m3u8$�
 #EXTINF:-1 tvg-id="67" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="卫视频道",青海卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8$雷蒙影视•IPV6『线路67』
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="卫视频道",山东卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="卫视频道",山东卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="卫视频道",山东卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="卫视频道",山东卫视
 http://114.252.229.26:9876/rtp/239.3.1.209:8052$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="卫视频道",山东卫视
@@ -7014,11 +7016,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/32
 #EXTINF:-1 tvg-id="80" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="卫视频道",山东卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000364/index.m3u8?key=tvbox6_com$雷蒙影视•IPV6『线路80』
 #EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/天津卫视.png" group-title="卫视频道",天津卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/天津卫视.png" group-title="卫视频道",天津卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="天津卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/天津卫视.png" group-title="卫视频道",天津卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="天津卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/天津卫视.png" group-title="卫视频道",天津卫视
 http://gouwu.pthv.gitv.tv:91/live/TJWShd-8M/live.m3u8$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="天津卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/天津卫视.png" group-title="卫视频道",天津卫视
@@ -7198,11 +7200,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="92" tvg-name="天津卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/天津卫视.png" group-title="卫视频道",天津卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?IAS$雷蒙影视•IPV6『线路92』
 #EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
 http://mail.petzhu.top:7000/rtp/239.254.201.125:6288$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
@@ -7282,49 +7284,51 @@ https://stream1.freetv.fun/88ce9949660efb3e94cf208ff5bb4fa81f296b80fcfb50d09df87
 #EXTINF:-1 tvg-id="42" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
 https://stream1.freetv.fun/c2050143891ad65886901531fce3a60bd082cf1d043bd0e8cdbef961ee74657e.m3u8$雷蒙影视•IPV4『线路42』
 #EXTINF:-1 tvg-id="43" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路43』
+rtp://239.3.1.205:8228$雷蒙影视•IPV4『线路43』
 #EXTINF:-1 tvg-id="44" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?m3u8_level=2$雷蒙影视•IPV6『线路44』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路44』
 #EXTINF:-1 tvg-id="45" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8?$雷蒙影视•IPV6『线路45』
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?m3u8_level=2$雷蒙影视•IPV6『线路45』
 #EXTINF:-1 tvg-id="46" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8??$雷蒙影视•IPV6『线路46』
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8?$雷蒙影视•IPV6『线路46』
 #EXTINF:-1 tvg-id="47" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路47』
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8??$雷蒙影视•IPV6『线路47』
 #EXTINF:-1 tvg-id="48" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路48』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路48』
 #EXTINF:-1 tvg-id="49" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000262/1.m3u8$雷蒙影视•IPV6『线路49』
+http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路49』
 #EXTINF:-1 tvg-id="50" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路50』
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000262/1.m3u8$雷蒙影视•IPV6『线路50』
 #EXTINF:-1 tvg-id="51" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路51』
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路51』
 #EXTINF:-1 tvg-id="52" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路52』
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路52』
 #EXTINF:-1 tvg-id="53" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路53』
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路53』
 #EXTINF:-1 tvg-id="54" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?key=tvbox6_com$雷蒙影视•IPV6『线路54』
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路54』
 #EXTINF:-1 tvg-id="55" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路55』
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?key=tvbox6_com$雷蒙影视•IPV6『线路55』
 #EXTINF:-1 tvg-id="56" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路56』
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路56』
 #EXTINF:-1 tvg-id="57" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路57』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路57』
 #EXTINF:-1 tvg-id="58" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路58』
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$雷蒙影视•IPV6『线路58』
 #EXTINF:-1 tvg-id="59" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8$雷蒙影视•IPV6『线路59』
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$雷蒙影视•IPV6『线路59』
 #EXTINF:-1 tvg-id="60" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?$雷蒙影视•IPV6『线路60』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8$雷蒙影视•IPV6『线路60』
 #EXTINF:-1 tvg-id="61" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaBeOsoiQC4O7YVlhWLaUupjXkJIrEMFMF2spHJh%2FN1RLi84Ue88x97wZoubXLeSwCFBwRVp81CkC12%2Foosdnmw$雷蒙影视•IPV6『线路61』
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?$雷蒙影视•IPV6『线路61』
+#EXTINF:-1 tvg-id="62" tvg-name="海南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海南卫视.png" group-title="卫视频道",海南卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaBeOsoiQC4O7YVlhWLaUupjXkJIrEMFMF2spHJh%2FN1RLi84Ue88x97wZoubXLeSwCFBwRVp81CkC12%2Foosdnmw$雷蒙影视•IPV6『线路62』
 #EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=5615f1db914b6aad92515d33126457a1664d2bac543a6e490d5428cf872c75e7_1720509372_604800&fromCDN=ws$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
@@ -7434,11 +7438,11 @@ rtp://239.3.1.167:8192$雷蒙影视•IPV4『线路56』
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路57』
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/云南卫视.png" group-title="卫视频道",云南卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/云南卫视.png" group-title="卫视频道",云南卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/云南卫视.png" group-title="卫视频道",云南卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/云南卫视.png" group-title="卫视频道",云南卫视
 http://220.164.192.48:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/云南卫视.png" group-title="卫视频道",云南卫视
@@ -7552,11 +7556,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/index.m3u8$�
 #EXTINF:-1 tvg-id="59" tvg-name="云南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/云南卫视.png" group-title="卫视频道",云南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8$雷蒙影视•IPV6『线路59』
 #EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="西藏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="西藏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="西藏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/XZWS/index.m3u8?gMac=unknown&livodToken=869833d1e922fd2adfbda722dd7633da4bba9b82e35962c8375cc1caf4e2b549_1720509408_604800&fromCDN=ws$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="西藏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/西藏卫视.png" group-title="卫视频道",西藏卫视
@@ -7646,11 +7650,11 @@ rtp://239.3.1.166:8188$雷蒙影视•IPV4『线路46』
 #EXTINF:-1 tvg-id="47" tvg-name="西藏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV6『线路47』
 #EXTINF:-1 tvg-id="1" tvg-name="海峡卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海峡卫视.png" group-title="卫视频道",海峡卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="海峡卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海峡卫视.png" group-title="卫视频道",海峡卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="海峡卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海峡卫视.png" group-title="卫视频道",海峡卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="海峡卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海峡卫视.png" group-title="卫视频道",海峡卫视
 http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="海峡卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海峡卫视.png" group-title="卫视频道",海峡卫视
@@ -7660,11 +7664,11 @@ http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-id="7" tvg-name="海峡卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/海峡卫视.png" group-title="卫视频道",海峡卫视
 http://117.27.190.42:9998/tsfile/live/23283_1.m3u8$雷蒙影视•IPV4『线路7』
 #EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵团卫视.png" group-title="卫视频道",兵团卫视
-https://a.nxog.eu.org/vip/nxog.php?c=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路1』
+https://a.nxog.eu.org/vip/nxog.php?c=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵团卫视.png" group-title="卫视频道",兵团卫视
-https://b.nxog.eu.org/vip/nxog.php?c=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路2』
+https://b.nxog.eu.org/vip/nxog.php?c=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵团卫视.png" group-title="卫视频道",兵团卫视
-https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&key=399&r=433190b1$雷蒙影视•IPV4『线路3』
+https://xn--vnu273b.xn--dkw.xn--6qq986b3xl/m/tv/dl/nxog.php?c=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&key=39a&r=35ce808e$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵团卫视.png" group-title="卫视频道",兵团卫视
@@ -8003,6 +8007,8 @@ https://stream1.freetv.fun/9a50e666912cb82bd584eb50bb030b7f654275ed05a586ef3c63a
 http://nas.hssvm.com:8888/udp/225.1.1.215:5002$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="影视频道",CHC动作电影
 http://123.189.36.39:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC动作电影.png" group-title="影视频道",CHC动作电影
+rtp://239.3.1.106:8001$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CHC高清电影.png" group-title="影视频道",CHC高清电影
 http://www.yao87.com:4022/udp/239.76.245.242:1234$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="黑莓电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑莓电影.png" group-title="影视频道",黑莓电影
